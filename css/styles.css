@@ -23,6 +23,7 @@ h2{
 h3{
     color: #66BFBF;
     font-family: 'Montserrat', sans-serif;
+    
 }
 
 .top-container{
@@ -86,7 +87,7 @@ h3{
 }
 
 .code-row{
-    width: 80%;
+    width: 50%;
     margin: 100px auto 100px auto;
     text-align: left;
     line-height: 2;
@@ -128,13 +129,5 @@ a:hover{
 
 .para-web{
     text-align: right;
-    color: blue;
+    
 }
-.mobile-text {
-    text-align: right;
-}
-@media (max-device-width: 600px) {
-    .mobile-text {
-      text-align: center;
-    }
-  }

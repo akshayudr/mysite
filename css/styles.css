@@ -1,4 +1,5 @@
 body{
+    color: #40514E;
     margin: 0px;
     text-align: center;
     font-family: 'Merriweather', serif;
@@ -23,7 +24,6 @@ h2{
 h3{
     color: #66BFBF;
     font-family: 'Montserrat', sans-serif;
-    
 }
 
 .top-container{
@@ -128,6 +128,7 @@ a:hover{
 }
 
 .para-web{
-    text-align: right;
+    text-align: left;
     
 }
+

@@ -1,5 +1,4 @@
 body{
-    color: #40514E;
     margin: 0px;
     text-align: center;
     font-family: 'Merriweather', serif;
@@ -128,7 +127,7 @@ a:hover{
 }
 
 .para-web{
-    text-align: left;
+    text-align: right;
     color: blue;
 }
 .mobile-text {

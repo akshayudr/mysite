@@ -123,12 +123,15 @@ a:hover{
     color: #EAF6F6;
     
 }
-.para-code{
-    text-align: left;
-}
 
 .para-web{
     text-align: left;
 }
-
-
+.mobile-text {
+    text-align: right;
+}
+@media (max-device-width: 600px) {
+    .mobile-text {
+      text-align: center;
+    }
+  }
